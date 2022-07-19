@@ -1,3 +1,5 @@
-Learning to link git local with github
+✨Learning to link git local with github
 
-learning how to modify and send to github repo
+:octocat: Learning how to link and push to github
+
+🖥️Pulling from github to local
